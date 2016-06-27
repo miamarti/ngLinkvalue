@@ -1,4 +1,6 @@
 # ngLinkvalue
+
+[![Join the chat at https://gitter.im/miamarti/ngLinkvalue](https://badges.gitter.im/miamarti/ngLinkvalue.svg)](https://gitter.im/miamarti/ngLinkvalue?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 AngularJS link input values
 
 <p>
